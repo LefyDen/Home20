@@ -36,3 +36,4 @@ SELECT COUNT(*) FROM Hope
 SELECT Age, COUNT(*) AS SameAge
 FROM Hope
 GROUP BY Age
+--checked
